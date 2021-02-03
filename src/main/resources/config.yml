@@ -1,0 +1,9 @@
+#
+# PlaceHolders:
+# @player - player's name
+# @position - player's position
+#
+hologram:
+  - ''
+  - ''
+  - ''

@@ -1,0 +1,8 @@
+name: RankingNpcs
+version: ${project.version}
+main: io.github.sasuked.rankingnpcs.RankingNpcsPlugin
+depend:
+  - Citizens
+  - HolographicDisplays
+softdepend:
+  - Vault
